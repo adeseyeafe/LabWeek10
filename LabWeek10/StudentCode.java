@@ -6,6 +6,7 @@
  * You must find out what happened in the method
  * by catching the exception thrown.
  */
+import ProvidedCode.java;
 public class StudentCode {
 	/*Returns one of the following Strings;
 	 * which String is returned depends on how the private instance data member 
